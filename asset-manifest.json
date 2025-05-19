@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.80158efd.chunk.js",
-    "main.js.map": "/static/js/main.80158efd.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.58daeab2.js",
-    "runtime~main.js.map": "/static/js/runtime~main.58daeab2.js.map",
-    "static/js/2.7ac5b4c0.chunk.js": "/static/js/2.7ac5b4c0.chunk.js",
-    "static/js/2.7ac5b4c0.chunk.js.map": "/static/js/2.7ac5b4c0.chunk.js.map",
-    "static/js/3.e12f153e.chunk.js": "/static/js/3.e12f153e.chunk.js",
-    "static/js/3.e12f153e.chunk.js.map": "/static/js/3.e12f153e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.badcffc899f9e299c59026ab4ee4dc27.js": "/precache-manifest.badcffc899f9e299c59026ab4ee4dc27.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map"
+    "main.css": "/habit-tracker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/habit-tracker/static/js/main.80158efd.chunk.js",
+    "main.js.map": "/habit-tracker/static/js/main.80158efd.chunk.js.map",
+    "runtime~main.js": "/habit-tracker/static/js/runtime~main.a94ca4e4.js",
+    "runtime~main.js.map": "/habit-tracker/static/js/runtime~main.a94ca4e4.js.map",
+    "static/js/2.7ac5b4c0.chunk.js": "/habit-tracker/static/js/2.7ac5b4c0.chunk.js",
+    "static/js/2.7ac5b4c0.chunk.js.map": "/habit-tracker/static/js/2.7ac5b4c0.chunk.js.map",
+    "static/js/3.e12f153e.chunk.js": "/habit-tracker/static/js/3.e12f153e.chunk.js",
+    "static/js/3.e12f153e.chunk.js.map": "/habit-tracker/static/js/3.e12f153e.chunk.js.map",
+    "index.html": "/habit-tracker/index.html",
+    "precache-manifest.b1a9b1d462c7fb12dca894ca5884bdc5.js": "/habit-tracker/precache-manifest.b1a9b1d462c7fb12dca894ca5884bdc5.js",
+    "service-worker.js": "/habit-tracker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/habit-tracker/static/css/main.5ecd60fb.chunk.css.map"
   }
 }
