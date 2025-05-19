@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sanetechies/habit-tracker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sanetechies/habit-tracker/static/js/main.80158efd.chunk.js",
+    "main.js.map": "/sanetechies/habit-tracker/static/js/main.80158efd.chunk.js.map",
+    "runtime~main.js": "/sanetechies/habit-tracker/static/js/runtime~main.c804904b.js",
+    "runtime~main.js.map": "/sanetechies/habit-tracker/static/js/runtime~main.c804904b.js.map",
+    "static/js/2.7ac5b4c0.chunk.js": "/sanetechies/habit-tracker/static/js/2.7ac5b4c0.chunk.js",
+    "static/js/2.7ac5b4c0.chunk.js.map": "/sanetechies/habit-tracker/static/js/2.7ac5b4c0.chunk.js.map",
+    "static/js/3.e12f153e.chunk.js": "/sanetechies/habit-tracker/static/js/3.e12f153e.chunk.js",
+    "static/js/3.e12f153e.chunk.js.map": "/sanetechies/habit-tracker/static/js/3.e12f153e.chunk.js.map",
+    "index.html": "/sanetechies/habit-tracker/index.html",
+    "precache-manifest.ef68cace4a5eb3bcc58c88f79c178e2c.js": "/sanetechies/habit-tracker/precache-manifest.ef68cace4a5eb3bcc58c88f79c178e2c.js",
+    "service-worker.js": "/sanetechies/habit-tracker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sanetechies/habit-tracker/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
